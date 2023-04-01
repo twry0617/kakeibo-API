@@ -3,4 +3,4 @@
 PHP Version 8.1~
 
 env ファイルを複製する
-cp .env.sample .env
+cp .env.example .env
